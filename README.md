@@ -8,4 +8,4 @@ thank you.
 
 ## subheader
 
-Never watch shitty tutorial
+Never watch shitty tutorial!
