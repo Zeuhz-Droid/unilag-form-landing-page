@@ -8,8 +8,8 @@ thank you.
 
 ## subheader
 
-Never watch shitty tutorial
+Never watch shitty tutorial!
 
 ## 16/12/2021
 
-revising git/ I'm an unrelenting brainiac 
+Revising git/ I'm an unrelenting brainiac and i plan to master this before noon.
